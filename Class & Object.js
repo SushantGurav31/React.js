@@ -137,4 +137,3 @@ const mylaptop = new laptop ("LENOVO", "8gb");
 console.log(mylaptop);
 
 
-
